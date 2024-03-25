@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068827506478",
+    "project_id": "novum-studio-ltd",
+    "storage_bucket": "novum-studio-ltd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068827506478:android:8cf69ea6bf7093652decbf",
+        "android_client_info": {
+          "package_name": "com.tar.iq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOQwAM7FrRoGrDlML8Xhm0-B0ttUIEDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

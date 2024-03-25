@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- Muda a cor de backgroud do menu-->
+        <item name="android:itemBackground">@color/colorAccent</item>
+    </style>
+
+    <!-- Tema da ToolBar -->
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="Small.Text" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="fontFamily">@font/comfortaa_light</item>
+
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="Medium.Text" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">18sp</item>
+        <item name="fontFamily">@font/comfortaa_light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="Large.Text" parent="@android:style/TextAppearance.Large">
+        <item name="android:textSize">32sp</item>
+        <item name="fontFamily">@font/comfortaa_regular</item>
+
+        <item name="android:textStyle">normal</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+</resources>
